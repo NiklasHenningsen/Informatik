@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Provisionsrechner
+comment1.params=
+comment1.target=Provisionsrechner()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Provisionsrechner\r\n
+comment2.params=y
+comment2.target=int\ beispielMethode(int)
+comment2.text=\r\n\ Ein\ Beispiel\ einer\ Methode\ -\ ersetzen\ Sie\ diesen\ Kommentar\ mit\ Ihrem\ eigenen\r\n\ \r\n\ @param\ \ y\ \ \ \ ein\ Beispielparameter\ f\u00FCr\ eine\ Methode\r\n\ @return\ \ \ \ \ \ \ \ die\ Summe\ aus\ x\ und\ y\r\n
+comment3.params=Umsatz
+comment3.target=double\ aufgabe1(double)
+comment4.params=
+comment4.target=void\ Umsatzfrage()
+comment5.params=Preis
+comment5.target=double\ Einkaufsrabatt(double)
+comment5.text=\r\n\ Aufgabe\ Einkausrabatt\r\n
+comment6.params=
+comment6.target=void\ UmfrageRabatt()
+numComments=7
